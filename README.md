@@ -1,2 +1,2 @@
 # Crossword solver
-Crossword solver by a forward-checking bactracking algorithm in python.
+Crossword solver by a forward-checking backtracking algorithm in python.
